@@ -1,6 +1,6 @@
 # Notebooks
 
-This folder contains the original end-to-end fall-event detection workflow notebook. It is retained as an experiment record while the project is migrated toward reusable data, training, and evaluation modules.
+This folder contains the original end-to-end fall-event detection workflow notebook. It is retained as an experiment record.
 
 | Notebook | Role |
 | --- | --- |
